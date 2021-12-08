@@ -1,4 +1,4 @@
-package com.fauziyah_19104033.myfirstapp
+package com.iqbal_19104041.myfirstapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
