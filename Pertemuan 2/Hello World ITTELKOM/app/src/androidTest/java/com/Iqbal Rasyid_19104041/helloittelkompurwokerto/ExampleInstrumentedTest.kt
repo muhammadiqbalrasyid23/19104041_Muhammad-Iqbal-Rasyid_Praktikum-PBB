@@ -1,4 +1,4 @@
-package com.fauziyah_19104033.helloittelkompurwokerto
+package com.iqbal_19104041.helloittelkompurwokerto
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
